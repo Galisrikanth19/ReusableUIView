@@ -13,10 +13,10 @@ class DashboardViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        setupView()
+        setupVC()
     }
     
-    private func setupView() {
+    private func setupVC() {
         setupCustomView()
     }
     
