@@ -43,6 +43,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FDC3590628140147009662AA /* SourceCode */ = {
+			isa = PBXGroup;
+			children = (
+				FDE5DE9B2813E08600FB1B1B /* DashboardViewController.swift */,
+				FDE5DE9D2813E08600FB1B1B /* Main.storyboard */,
+			);
+			path = SourceCode;
+			sourceTree = "<group>";
+		};
 		FDE5DE8B2813E08600FB1B1B = {
 			isa = PBXGroup;
 			children = (
@@ -64,10 +73,9 @@
 			children = (
 				FDE5DE972813E08600FB1B1B /* AppDelegate.swift */,
 				FDE5DE992813E08600FB1B1B /* SceneDelegate.swift */,
-				FDE5DE9B2813E08600FB1B1B /* DashboardViewController.swift */,
+				FDC3590628140147009662AA /* SourceCode */,
 				FDE5DEAB2813E25200FB1B1B /* CustomView */,
 				FDE5DEB02813F24A00FB1B1B /* Extensions */,
-				FDE5DE9D2813E08600FB1B1B /* Main.storyboard */,
 				FDE5DEA02813E08B00FB1B1B /* Assets.xcassets */,
 				FDE5DEA22813E08B00FB1B1B /* LaunchScreen.storyboard */,
 				FDE5DEA52813E08B00FB1B1B /* Info.plist */,
